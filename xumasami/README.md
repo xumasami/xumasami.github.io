@@ -1,2 +1,2 @@
 # xumasami.github.io
-blog
+
